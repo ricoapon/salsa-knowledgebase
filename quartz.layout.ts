@@ -6,12 +6,8 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  // I changed the source code to remove the content of the footer. There is no "empty footer" class.
+  footer: Component.Footer(),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -22,7 +18,6 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
@@ -35,14 +30,11 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
