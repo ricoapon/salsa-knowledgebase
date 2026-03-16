@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  // I changed the source code to remove the content of the footer. There is no "empty footer" class.
+  // I use CSS to remove the footer from the screen.
   footer: Component.Footer(),
 }
 
