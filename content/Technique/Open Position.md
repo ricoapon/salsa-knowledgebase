@@ -6,9 +6,9 @@ tags:
 
 The Open Position is a way of holding your partner, where both hands hold the other in front of you around hip height. The leader is on the bottom (open hands) and the follower is on top (a small U-form).
 
-![Open Posiiton](https://salsahandbook.github.io/output/images/Positions/Open_LLHS.PNG)
+![Open Posititon](https://salsahandbook.github.io/output/images/Positions/Open_LLHS.PNG)
 
-In salsa, the Open Position is most commonly used. It is used with many different hand holds that switch quickly.
+In salsa, the Open Position is most commonly used. It is used with many different hand holds that switch quickly. See [[Hand Holds]].
 
 ## Transitioning to Closed Position
 
