@@ -2,6 +2,7 @@
 title: Cross Body Lead Cumbia
 tags:
   - TODO
+  - learned
 ---
 
 This is a variant where the leader prepares the sideways movement earlier and does a [[Cumbia]] with the additional time.
