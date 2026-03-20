@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Salsa knowledgebase
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a website that stores all the Salsa knowledge in a structured way specifically for Rico.
+
+Useful links:
+- [All learned moves](/tags/learned)
