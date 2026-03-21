@@ -1,5 +1,7 @@
 ---
 title: Hammerlock
+aliases:
+  - Hammerlock
 tags:
   - TODO
 ---

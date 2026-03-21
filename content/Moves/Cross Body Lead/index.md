@@ -1,5 +1,7 @@
 ---
 title: Cross Body Lead
+aliases:
+  - Cross Body Lead
 tags:
   - TODO
   - learned
