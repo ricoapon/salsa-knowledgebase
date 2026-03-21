@@ -18,6 +18,11 @@ Note that YouTube embedding will show an 153 error when running locally. It will
 
 It uses Quartz. The repository was initialized using [this template][https://github.com/jackyzha0/quartz] (specifically, v4).
 
+When a Quartz upgrade is going to be done, keep the following in mind:
+
+1. I had to make code changes to get the `start=X` to work. See `quartz/plugins/transformers/ofm.ts`. See commit `9e86305217d8b2b7f5d95bca34dd503dbbfbefe6`.
+1. Showing the number of items in a folder can be disabled using `showFolderCount`. However, there was no way to actually pass this value, so I updated the default value to `false`. See commit `5fa15953ebb05b749a3f3a95eb252d9ed3233237`.
+
 # Markdown specifics
 
 There are a few situations that need more details to work as expected. If some standard way of working needs to be used, place it here.
@@ -32,7 +37,6 @@ Embedding a YouTube video is possible, but there are strict requirements. To ens
 
 The name ("YouTube Video") is irrelevant and won't be shown. This can be replaced with a descriptive name that is useful for myself. The `start=X` is optional and can be used to start a video at a specific timestamp. Make sure to use this exact URL, because a regex is used to determine YouTube video's. It will not work if the URL doesn't match the regex. To stay consistent, always use this format.
 
-Note: I had to make code changes to Quartz to get the `start=X` to work. See `quartz/plugins/transformers/ofm.ts`. If we ever upgrade Quartz, this patch might need to be applied again. See commit `9e86305217d8b2b7f5d95bca34dd503dbbfbefe6`.
 
 ## Using index.md
 
