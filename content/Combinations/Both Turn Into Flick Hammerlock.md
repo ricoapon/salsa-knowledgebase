@@ -11,4 +11,4 @@ tags:
 1. On 7, the follower should have finished most of the turn and give space for the leader to turn left underneath the arms.
 1. [[Flick Hammerlock]]
 
-![YouTube Video](https://youtu.be/f5HQFtbFY9s?t=30)
+![YouTube Video](https://youtu.be/f5HQFtbFY9s?start=30)

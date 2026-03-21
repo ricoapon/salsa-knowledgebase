@@ -17,3 +17,15 @@ Note that YouTube embedding will show an 153 error when running locally. It will
 ## Technical
 
 It uses Quartz. The repository was initialized using [this template][https://github.com/jackyzha0/quartz] (specifically, v4).
+
+## YouTube links
+
+Embedding a YouTube video is possible, but there are strict requirements. To ensure it works, always embed it as follows:
+
+```
+![YouTube Video](https://youtu.be/6OW1gkSE2d8?start=120)
+```
+
+The name ("YouTube Video") is irrelevant and won't be shown. This can be replaced with a descriptive name that is useful for myself. The `start=X` is optional and can be used to start a video at a specific timestamp. Make sure to use this exact URL, because a regex is used to determine YouTube video's. It will not work if the URL doesn't match the regex. To stay consistent, always use this format.
+
+Note: I had to make code changes to Quartz to get the `start=X` to work. See `quartz/plugins/transformers/ofm.ts`. If we ever upgrade Quartz, this patch might need to be applied again. See commit `9e86305217d8b2b7f5d95bca34dd503dbbfbefe6`.

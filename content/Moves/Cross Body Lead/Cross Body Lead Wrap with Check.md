@@ -8,4 +8,4 @@ Have the follower do an [[Inside Turn]], but instead of having the follower turn
 
 Very cool addition that is not shown in the video: immediately make a [[Right Turn]] afterwards. This flows nicely!
 
-![Wrap with Check](https://www.youtube.com/watch?v=E6ofN0HpI6Q)
+![Wrap with Check](https://youtu.be/E6ofN0HpI6Q?start=119)

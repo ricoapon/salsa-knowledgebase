@@ -9,6 +9,6 @@ This is not just a [[Right Turn]] but the other direction. The leader needs to g
 
 It is often used in this pattern: [[Left Turn]], then the leader does a [[Right Turn]] into a [[Right Turn]] for the follower. This is also shown in the video.
 
-![Lesson](https://www.youtube.com/watch?v=2HdenUCxG4w)
+![Lesson](https://youtu.be/2HdenUCxG4w)
 
 ![Lesson](Youtube video from the lesson)

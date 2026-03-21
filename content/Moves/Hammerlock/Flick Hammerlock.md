@@ -8,4 +8,4 @@ When doing a [[Cross Body Lead]], on 1, the leader raises the right hand and the
 
 Note: I couldn't find a good video for only showing this. I also don't think it is called "flick". The workshop video shows this as part of the combination.
 
-![YouTube Video](https://youtu.be/f5HQFtbFY9s?t=30)
+![YouTube Video](https://youtu.be/f5HQFtbFY9s?start=30)
