@@ -14,5 +14,3 @@ This move is one of the most fundamental moves used in salsa. It is a move in wh
 ## Variants
 
 There are a lot of ways to switch up this move for both the leader and the follower. See the children pages for variants.
-
-TODO: also add hammerlock into cbl inside turn as variant here in some way?
