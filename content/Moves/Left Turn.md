@@ -10,4 +10,6 @@ It is often used in this pattern: [[Left Turn]], then the leader does a [[Right 
 
 ![Left Turn Solo](https://youtu.be/UfbhemZMAIM)
 
-![Lesson](https://youtu.be/2HdenUCxG4w)
+![Left Turn With Follower](https://youtu.be/jj2UFlZr_zU)
+
+![Alternative Instruction](https://youtu.be/2HdenUCxG4w)
