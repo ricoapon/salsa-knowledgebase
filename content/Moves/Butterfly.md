@@ -1,12 +1,11 @@
 ---
 title: Butterfly
 tags:
-  - TODO
   - learned
 ---
 
 A move in which the follower does a sort of "wing flapping" like a butterfly.
 
-![Butterfly](https://youtu.be/Cb_dRVfA4VU)
+![Butterfly](https://youtu.be/ztEUXxJQZ1s)
 
-TODO: fill in video from lesson.
+![Butterfly](https://youtu.be/Cb_dRVfA4VU)
