@@ -1,7 +1,5 @@
 ---
 title: Open Position
-tags:
-  - TODO
 ---
 
 The Open Position is a way of holding your partner, where both hands hold the other in front of you around hip height. The leader is on the bottom (open hands) and the follower is on top (a small U-form).
