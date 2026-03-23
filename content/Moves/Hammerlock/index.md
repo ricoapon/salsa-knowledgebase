@@ -2,8 +2,6 @@
 title: Hammerlock
 aliases:
   - Hammerlock
-tags:
-  - TODO
 ---
 
 Hammerlock is the position where the follower has the (often left) hand behind her back, where the leader grabs the hand on the other side.
