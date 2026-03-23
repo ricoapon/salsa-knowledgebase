@@ -1,5 +1,7 @@
 ---
 title: Closed Position
+tags:
+  - TODO
 ---
 
 The Closed Position is a way of holding your partner, where the right hand of the follower falls in the left hand of the leader and is held a bit higher. The right hand of the leader is on the back (high) and the followers left arm rests a bit on the leader.
@@ -10,8 +12,8 @@ In contrast to the [[Open Position]], in the Closed Position the leader has more
 
 ## Transitioning to Open Position
 
-Moving from the Closed Position to [[Open Position]] can be done by the leader by letting go of the right hand, and moving it underneath her arm onto her back. Followers will understand this, but there is another smooth way to do this.
+Moving from Closed Position to [[Open Position]] can be done by the leader by creating more distance and sliding away with the right hand. It is often done in a [[Basic Step]] starting on count 5. The leader can move backwards with a bigger step and create more distance.
 
-The leader can right hand, grab onto the wrist instead of hand, and make a rotating motion. See the video.
+![Closed to Open](https://youtu.be/i-04gBKXTNI)
 
-![YouTube Video](https://youtu.be/i-04gBKXTNI)
+Alternatively, the leader could do a [[Hair Comb]] with the followers left hand over the leaders head. A good example is the [[Cross Body Lead Hair Comb]].

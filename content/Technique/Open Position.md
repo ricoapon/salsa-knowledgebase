@@ -12,8 +12,10 @@ In salsa, the Open Position is most commonly used. It is used with many differen
 
 ## Transitioning to Closed Position
 
-Moving from the Open Position to [[Closed Position]] can be done by the leader by creating more distance and sliding away with the right hand. It is often done in a [[Basic Step]] starting on count 5. The leader can move backwards with a bigger step and create more distance.
+Moving from Open Position to [[Closed Position]] can be done by the leader by letting go of the right hand, and moving it underneath her arm onto her back. Followers will understand this, but there is another smooth way to do this.
 
-![YouTube Video](TODO video van de les die dit laat zien)
+The leader can right hand, grab onto the wrist instead of hand, and make a rotating motion. See the video.
 
-Alternatively, the leader could do a [[Hair Comb]] with the followers left hand over the leaders head. A good example is the [[Cross Body Lead Hair Comb]].
+It is shown in the first few seconds of this video without explanations.
+
+![Open To Closed](https://youtu.be/y-HIqp2exJM)
