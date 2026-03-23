@@ -3,7 +3,6 @@ title: Beginners 1 - Lesson 4
 date: 2026-01-26
 tags:
   - lesson
-  - TODO
 ---
 
 In this lesson we learned:
@@ -12,8 +11,10 @@ In this lesson we learned:
 - Move from [[Open Position]] to [[Closed Position]]
 - [[Right Turn]] for the follower
 
-![YouTube Video](TODO)
+![YouTube Video](https://youtu.be/y-HIqp2exJM)
 
-Moving between the different positions is not fully explained in the video. This video from another salsa lesson shows this in more detail.
+Moving from [[Closed Position]] to [[Open Position]] is shown in the video very quickly. It is essentially creating more space and sliding out the arms.
 
-![YouTube Video](TODO)
+Moving from [[Open Position]] to [[Closed Position]] is not shown in the video. This video from another salsa lesson shows it in more detail.
+
+![Open To Closed](https://youtu.be/i-04gBKXTNI)

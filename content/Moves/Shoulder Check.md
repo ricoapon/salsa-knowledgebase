@@ -1,12 +1,11 @@
 ---
 title: Shoulder Check
 tags:
-  - TODO
   - learned
 ---
 
 Similar to the [[Butterfly]],
 
-![Shoulder Check](https://youtu.be/BI57h1R_0LY)
+![Lesson](https://youtu.be/41ZshrzIUQ0)
 
-TODO: fill in video from lesson.
+![Good Alternative](https://youtu.be/BI57h1R_0LY)

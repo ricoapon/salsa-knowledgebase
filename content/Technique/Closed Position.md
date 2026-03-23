@@ -1,7 +1,5 @@
 ---
 title: Closed Position
-tags:
-  - TODO
 ---
 
 The Closed Position is a way of holding your partner, where the right hand of the follower falls in the left hand of the leader and is held a bit higher. The right hand of the leader is on the back (high) and the followers left arm rests a bit on the leader.
@@ -16,4 +14,4 @@ Moving from the Closed Position to [[Open Position]] can be done by the leader b
 
 The leader can right hand, grab onto the wrist instead of hand, and make a rotating motion. See the video.
 
-![YouTube Video](TODO video van de les die dit laat zien)
+![YouTube Video](https://youtu.be/i-04gBKXTNI)

@@ -1,10 +1,11 @@
 ---
 title: Right Turn
 tags:
-  - TODO
   - learned
 ---
 
 Make a right turn in a [[Basic Step]].
 
-![Youtube](Youtube video from the lesson)
+![YouTube Video](https://youtu.be/VoDrqX1Jk80?start=25)
+
+![YouTube Video](https://youtu.be/y-HIqp2exJM)

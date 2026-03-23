@@ -1,7 +1,6 @@
 ---
 title: Left Turn
 tags:
-  - TODO
   - learned
 ---
 
@@ -9,6 +8,6 @@ This is not just a [[Right Turn]] but the other direction. The leader needs to g
 
 It is often used in this pattern: [[Left Turn]], then the leader does a [[Right Turn]] into a [[Right Turn]] for the follower. This is also shown in the video.
 
-![Lesson](https://youtu.be/2HdenUCxG4w)
+![Left Turn Solo](https://youtu.be/UfbhemZMAIM)
 
-![Lesson](Youtube video from the lesson)
+![Lesson](https://youtu.be/2HdenUCxG4w)
