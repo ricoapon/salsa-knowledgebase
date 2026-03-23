@@ -1,5 +1,5 @@
 ---
-title: Beginners 1 - Lesson 5
+title: Lesson 5
 date: 2026-02-02
 tags:
   - lesson
