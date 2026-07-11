@@ -1,0 +1,11 @@
+---
+title: Cross Body Lead Wrap with Check
+tags:
+  - learned
+---
+
+Have the follower do an [[Inside Turn]], but instead of having the follower turn all the way, have her stop by keep holding her right arm. This "wraps" around her. Then move her back face the leader.
+
+Very cool addition that is not shown in the video: immediately make a [[Right Turn]] afterwards. If the leader holds both hands, then you end up with an arm position that is the same as in [[Workshop Weird Arm Position]]. Nice for combinations!
+
+![Wrap with Check](https://youtu.be/E6ofN0HpI6Q?start=119)
