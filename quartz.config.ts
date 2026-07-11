@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Salsa",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "salsa.ricoapon.nl",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -27,26 +27,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fafafa",
+          lightgray: "#e8e8e8",
+          gray: "#bcbcbc",
+          darkgray: "#4c4c4c",
+          dark: "#1f1f1f",
+          secondary: "#c0392b",
+          tertiary: "#e09f3e",
+          highlight: "rgba(192, 57, 43, 0.12)",
+          textHighlight: "#ffe06688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#141414",
+          lightgray: "#2c2c2c",
+          gray: "#6b6b6b",
+          darkgray: "#d9d9d9",
+          dark: "#f2f2f2",
+          secondary: "#e63946",
+          tertiary: "#e09f3e",
+          highlight: "rgba(230, 57, 70, 0.18)",
+          textHighlight: "#ffe06688",
         },
       },
     },
@@ -54,7 +54,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      // Dates are irrelevant for my sites.
+      // Dates are irrelevant for this site.
       // Plugin.CreatedModifiedDate({
       //   priority: ["frontmatter", "git", "filesystem"],
       // }),
