@@ -1,7 +1,7 @@
 ---
 title: Copa Back To Back
 aliases:
-  - Copa Back To Back
+  - Rainbow Copa
 tags:
   - learned
 ---
