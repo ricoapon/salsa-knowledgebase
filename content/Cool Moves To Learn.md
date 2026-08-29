@@ -34,12 +34,6 @@ A bit tricky with the steps, especially if followers are not prepared for this. 
 
 Just looks very cool haha. Also doable with beginners if I lead well maybe?
 
-# Barrel roll
-
-![YouTube Video](https://youtu.be/E6ofN0HpI6Q?start=159)
-
-A bit too difficult. But maybe with some practise I could do this? The distance between the follower and leader is tight, so not suited for a beginner.
-
 # Wrap with complete turn
 
 ![YouTube Video](https://youtu.be/E6ofN0HpI6Q?start=134)
