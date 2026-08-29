@@ -51,7 +51,3 @@ Now that I have learned [[Shoulder Check Outside Turn]], I can do this too proba
 ![YouTube Video](https://youtu.be/7p0hB0HyL_I)
 
 I haven't learned the 360 yet, but when I do then these variants are nice.
-
-# Interesting CBL
-
-![YouTube Video](https://youtu.be/APKjKHJil0Y)
