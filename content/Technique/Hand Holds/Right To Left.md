@@ -1,5 +1,5 @@
 ---
-title: Right to Left
+title: Right To Left
 ---
 
 Right To Left.
