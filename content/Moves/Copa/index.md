@@ -1,5 +1,7 @@
 ---
 title: Copa
+aliases:
+  - Copa
 tags:
   - learned
 ---
