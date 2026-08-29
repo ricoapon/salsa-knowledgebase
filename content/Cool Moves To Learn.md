@@ -4,12 +4,6 @@ title: Cool moves to learn
 
 This page contains videos with moves that I found that I think are really nice to learn. There is no order to this list.
 
-# Exit Enchufla Doble
-
-![YouTube Video](https://youtu.be/dMpR5nk_5sw?start=45)
-
-There are many ways to exit the [[Enchufla Doble]], like the CBL that I normally do. This is a cool one with a turn for myself.
-
 # Cross Body Lead Rejection Hook into follower walking around you
 
 https://www.instagram.com/reel/C5xpeHfiqRf/
