@@ -1,13 +1,12 @@
 ---
-title: Workshop Hug Check
+title: Workshop Roll In Check
 tags:
   - learned
 ---
 
 This is the move from the workshop that does the following:
 - [[Cross Body Lead Hand Switch]]
-- [[Open Break]] into hug (not sure if this is exactly the name)
-- Walk backwards into a check with styling
+- [[Roll In Check]]
 - Outer turn for the follower with both hands. For the leader: make sure the right hand is "on top", because this will ensure the position is correct.
 - Arm flick from [[Crosshold]] into [[Reverse Crosshold]].
 - [[Belly Check]] (where the video shows some additional styling with the left hand).

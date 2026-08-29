@@ -4,7 +4,7 @@ tags:
   - learned
 ---
 
-Similar to the [[Workshop Hug Check]].
+Similar to the [[Workshop Roll In Check]].
 
 ![YouTube Video](https://youtu.be/aknast7A4YE)
 
