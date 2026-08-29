@@ -1,7 +1,7 @@
 ---
 title: Sweep
 tags:
-  - learned
+  - to-learn
 ---
 
 It is a combination of:

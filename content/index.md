@@ -6,3 +6,4 @@ This is a website that stores all the Salsa knowledge in a structured way specif
 
 Useful links:
 - [All learned moves](/tags/learned)
+- [Moves to learn](/tags/to-learn)
