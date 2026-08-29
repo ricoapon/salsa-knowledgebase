@@ -55,7 +55,3 @@ I haven't learned the 360 yet, but when I do then these variants are nice.
 # Interesting CBL
 
 ![YouTube Video](https://youtu.be/APKjKHJil0Y)
-
-# Nova Dance stuff
-
-![YouTube Video](https://youtu.be/SDBbTLAcR7k)

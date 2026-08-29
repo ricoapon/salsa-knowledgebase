@@ -1,5 +1,7 @@
 ---
 title: Butterfly
+aliases:
+  - Butterfly
 tags:
   - learned
 ---
