@@ -4,12 +4,6 @@ title: Cool moves to learn
 
 This page contains videos with moves that I found that I think are really nice to learn. There is no order to this list.
 
-# Open Break Outside Turn
-
-![YouTube Video](https://youtu.be/OU0RR88dDBs)
-
-Something to do on an open break!
-
 # Exit Enchufla Doble
 
 ![YouTube Video](https://youtu.be/dMpR5nk_5sw?start=45)
