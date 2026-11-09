@@ -1,5 +1,5 @@
 ---
-title: Open Break Inside Turn
+title: Open Break Outside Turn
 tags:
   - learned
 ---
